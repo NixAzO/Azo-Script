@@ -92,7 +92,7 @@ If something's acting up:
 
 ## 👨‍💻 Author
 
-Made with ❤️ and way too much ☕
+Made with 420 and way too much ☕
 
 *If this script saves you even a few seconds a day, drop a star on the repo!* ⭐
 
